@@ -1,5 +1,7 @@
 # Suzushi / Ian
 
+![Header](IamProgrammer!.png)
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=suzushi-tw&show_icons=true&theme=dark"
