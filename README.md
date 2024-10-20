@@ -30,4 +30,12 @@ CS student based in Germany/Taiwan, with NextJS experience. Currently aspiring t
 
 </p>
 
+**Backend**
+<p>
+  <img alt="GO"
+    src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" />
+   <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+   <img alt="postgres" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
+     <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
