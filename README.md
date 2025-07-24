@@ -25,9 +25,27 @@ CS student based in Germany/Taiwan, with NextJS experience. Currently aspiring t
 <p>
   <img alt="GO"
     src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge" />
+    <img alt="Bun"
+    src="https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff" />
+   <img alt="Bun"
+    src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+</p>
+
+**Database**
+
+<p>
    <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
    <img alt="postgres" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
    <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+
+**Cloud**
+
+<p>
+   <img alt="AWS" src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" />
+   <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white" />
+   <img alt="Oracle" src="https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white" />
 </p>
 
    </td>
